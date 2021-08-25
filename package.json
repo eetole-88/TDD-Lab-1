@@ -1,0 +1,14 @@
+{
+  "name": "labs",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "description": ""
+}
